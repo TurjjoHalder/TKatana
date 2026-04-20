@@ -104,7 +104,7 @@ export default function Home() {
               </h2>
               <p className="text-text-dim text-lg">Engineering solutions through Dart and mobile native layers.</p>
             </motion.div> */}
-            <div className="font-headline font-bold text-surface-high/50 text-7xl hidden lg:block select-none leading-none">
+            <div className="font-headline font-bold text-surface-high/200 text-7xl hidden lg:block select-none leading-none">
               01 — 04
             </div>
           </div>
