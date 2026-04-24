@@ -80,7 +80,7 @@ export default function Home() {
             <div className="aspect-square rounded-full bg-secondary/10 absolute -inset-10 blur-3xl"></div>
             <div className="relative bg-surface p-4 rounded-xl border border-surface-high shadow-2xl">
               <img
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCVEOK13tkK1VBIq4T1thzaXdwNanrJwBYQycNlvwfIn6u1GjcivmZEpec5oqFi4OBCOa_LRhJTvN-uRGfZdNmwGenJp3jmY3mF9vYWs29hYYI7aLLsCW7AM2viAS4JPtN57U2ICTEv4dcc_heH7bJSN7pqptMFkuP788lUUy9T9rWmGC8k7rCDGU4HzAg403ZlpcGlKJq_1-yHgMPWDpmq8KJOyBO4DYGfcNzASelw-gBqgo3b0IJZocKmLElT8zSTM1dGrphKqgMc"
+                src="https://cdnp1.stackassets.com/d775a1638e4d302f5e222d2dfe6b7fbca464e598/store/opt/720/541/7f1024603c07dce2b6a8714daabad7343da003bffe1e07092c903e5871ce/product_39395_product_shots1.jpg"
                 alt="Code Environment"
                 className="rounded-lg grayscale hover:grayscale-0 transition-all duration-700 w-full aspect-[4/5] object-cover"
                 referrerPolicy="no-referrer"
